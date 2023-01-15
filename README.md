@@ -4,6 +4,7 @@
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
 <p align="center">
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
   </a>
